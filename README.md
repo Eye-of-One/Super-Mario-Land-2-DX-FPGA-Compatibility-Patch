@@ -2,6 +2,14 @@
 
 This patch fixes major compatibility problems between Super Mario Land 2 DX v1.8.1 and FPGA-based Game Boy hardware, especially the ModRetro Chromatic when used with certain flash cartridges.
 
+<p align="center">
+  <img src="docs/SML2DX_Before_After.gif" width="900">
+</p>
+
+<p align="center">
+  <em>Original FPGA sprite corruption versus SML2DX_FPGA_v33 compatibility patch.</em>
+</p>
+
 This release improves compatibility with FPGA-based Game Boy hardware, specifically:
 - ModRetro Chromatic
 - InsideGadgets MBC5 FRAM Flash Cart
