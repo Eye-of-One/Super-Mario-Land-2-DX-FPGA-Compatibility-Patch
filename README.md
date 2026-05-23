@@ -61,7 +61,7 @@ FINAL RESULT
 KNOWN ISSUES
 --------------------------------------------------
 
-- Minor graphical corruption may appear during the ending credits sequence.
+- Minor graphical corruption during the ending credits sequence.
 - Gameplay itself is stable and fully playable.
 
 --------------------------------------------------
