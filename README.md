@@ -51,15 +51,6 @@ Apply SML2DX_FPGA_v33.ips to the patched Super Mario Land 2 DX v1.8.1 ROM.
 FINAL RESULT
 --------------------------------------------------
 
-- Fixed sprite rendering
-- Stable gameplay on Chromatic / FPGA hardware
-- Restored enemy/item visibility
-- Corrected overworld rendering
-
---------------------------------------------------
-FEATURES
---------------------------------------------------
-
 - Restores correct sprite rendering
 - Fixes invisible enemies/items
 - Fixes major overworld corruption
